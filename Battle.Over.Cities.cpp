@@ -36,6 +36,5 @@ int main()
 		   }
 		printf("%d\n",num-1);
 	}
-	//printf("%d\n%d\n%d\n",k,visit[1],v[1]);
 	return 0;
 }
